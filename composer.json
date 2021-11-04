@@ -1,0 +1,17 @@
+{
+    "name": "aloraytech/framework",
+    "description": "A Web Php Framework For Tinkle Applications",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Aloraytech\\Framework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Krishanu",
+            "email": "36711704+aloraytech@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
