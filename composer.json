@@ -1,5 +1,6 @@
 {
     "name": "aloraytech/framework",
+    "description": "Rapid Web App Development Framework",
     "type": "library",
     "license": "MIT",
     "autoload": {
