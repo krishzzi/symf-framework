@@ -1,4 +1,7 @@
-vendor
-.env
+/vendor/
+app/storage/
+/.vagrant
 .idea
+.env
 .vscode
+public/storage
