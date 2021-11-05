@@ -1,6 +1,4 @@
-/public/storage
-/vendor
+vendor
 .env
-.env.backup
-/.idea
-/.vscode
+.idea
+.vscode
