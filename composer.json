@@ -5,8 +5,6 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Aloraytech\\Framework\\": "src/",
-            "Tinkle\\Framework\\":  "src/",
             "Tinkle\\":  "src/",
             "Framework\\":  "src/"
         }
