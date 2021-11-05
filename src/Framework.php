@@ -2,7 +2,7 @@
 
 namespace Aloraytech\Framework;
 
-class Framework
+class Framework extends Karnel
 {
 
     private string $text="";
