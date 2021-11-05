@@ -5,7 +5,7 @@ namespace Aloraytech\Framework;
 abstract class Karnel
 {
 
-    protected string $key='';
+    protected string $key='test';
 
 
 
