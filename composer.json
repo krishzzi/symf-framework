@@ -13,5 +13,7 @@
             "email": "36711704+aloraytech@users.noreply.github.com"
         }
     ],
-    "require": {}
+    "require": {
+        "vlucas/phpdotenv": "^5.3"
+    }
 }
