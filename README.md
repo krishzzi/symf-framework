@@ -1,2 +1,2 @@
-# framework
-A Php Web Framework For Tinkle Application
+# tinkle
+Rapid Web App Maker

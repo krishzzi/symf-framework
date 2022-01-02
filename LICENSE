@@ -1,6 +1,10 @@
 MIT License
 
-Copyright (c) 2021 Krishanu
+Copyright (c) 2021 Aloray Technologies
+Author : Krishanu Bhattacharya
+Email : krishanu.info@gmail.com
+Official Github : https://github.com/aloraytech/tinkle
+Github Email: 36711704+aloraytech@users.noreply.github.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +23,17 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Limitations:
+Do Not:
+While this version  use MIT License, But you have some limitations..
+Like you should not remove Contribution.md from your project root.
+Should not alter/modify any previous license terms and condition of this file and LICENSE_T&C file.
+
+Do:
+Keep your contribution record along side with other contribution records in Contribution.md file
+in your project root.
+Can keep your organization/personal licence with terms and conditions along with all previous license
+terms and condition in LICENSE_T&C file in your root directory.
+
+DO NOT ALTER/MODIFY THIS LICENSE FILE

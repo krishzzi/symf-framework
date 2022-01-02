@@ -1,12 +1,16 @@
 {
     "name": "aloraytech/framework",
     "description": "Rapid Web App Development Framework",
-    "type": "library",
-    "license": "MIT",
+    "license": "(MIT or GPL-3.0-or-later)",
+    "keywords": ["framework", "web framework","aloraytech","mvc"],
     "autoload": {
         "psr-4": {
-            "Tinkle\\":  "src/",
-            "Framework\\":  "src/"
+            "App\\": "app/",
+            "Helper\\": "app/Helpers/",
+            "Config\\": "config/",
+            "Database\\": "database/",
+            "Aloraytech\\Framework\\": "src/",
+            "Framework\\": "src/"
         }
     },
     "authors": [
@@ -15,8 +19,22 @@
             "email": "36711704+aloraytech@users.noreply.github.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
-        "vlucas/phpdotenv": "5.3.x-dev"
+        "symfony/http-foundation": "^5.1",
+        "symfony/routing": "^5.1",
+        "twig/twig": "^3.1",
+        "vlucas/phpdotenv": "^5.2",
+        "symfony/http-kernel": "^5.2",
+        "symfony/event-dispatcher": "^5.2",
+        "symfony/dependency-injection": "^5.2"
     }
+
+
+
+
+
+
+
+
+
 }

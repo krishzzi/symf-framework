@@ -2,20 +2,8 @@
 
 namespace Aloraytech\Framework;
 
-class Framework extends Karnel
+use Symfony\Component\HttpKernel\HttpKernel;
+class Framework extends HttpKernel
 {
-
-    private string $text="";
-
-    public function __construct()
-    {
-        $this->text = "Welcome in Tinkle Framework";
-    }
-
-    public function get()
-    {
-        return $this->text;
-    }
-
 
 }
